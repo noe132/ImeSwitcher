@@ -1,0 +1,7 @@
+*.o
+qrc_app_resources.*
+/Makefile
+/.qmake.stash
+/build
+/.vscode
+.DS_Store
